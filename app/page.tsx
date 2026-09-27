@@ -13,10 +13,10 @@ const stages = [
 ]
 
 const breeds = [
-  { name: 'Chihuahua', size: 'Toy', life: '14–17 yrs', energy: 3, groom: 1, maturity: '8–10 mo', image: 'https://images.unsplash.com/photo-1557878120-7177f1c5a6e0?auto=format&fit=crop&w=600&q=80', blurb: 'Alert, confident, and tiny in stature with a surprisingly big personality.' },
+  { name: 'Chihuahua', size: 'Toy', life: '14–17 yrs', energy: 3, groom: 1, maturity: '8–10 mo', image: '/images/chihuahua.png', blurb: 'Alert, confident, and tiny in stature with a surprisingly big personality.' },
   { name: 'Labrador Retriever', size: 'Large', life: '10–12 yrs', energy: 5, groom: 2, maturity: '18–24 mo', image: 'https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=600&q=80', blurb: 'Outgoing, eager to learn, and happiest when included in family life.' },
   { name: 'Border Collie', size: 'Medium', life: '12–15 yrs', energy: 5, groom: 3, maturity: '18–24 mo', image: 'https://images.unsplash.com/photo-1558788353-f76d92427f16?auto=format&fit=crop&w=600&q=80', blurb: 'Bright, athletic, and deeply responsive to thoughtful work and play.' },
-  { name: 'Great Dane', size: 'Giant', life: '7–10 yrs', energy: 3, groom: 1, maturity: '24–36 mo', image: 'https://images.unsplash.com/photo-1553882809-a4f57e0b77a0?auto=format&fit=crop&w=600&q=80', blurb: 'Gentle and affectionate, with a long adolescent growth period.' },
+  { name: 'Great Dane', size: 'Giant', life: '7–10 yrs', energy: 3, groom: 1, maturity: '24–36 mo', image: '/images/great-dane.png', blurb: 'Gentle and affectionate, with a long adolescent growth period.' },
 ]
 
 const matrix = [
